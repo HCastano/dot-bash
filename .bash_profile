@@ -3,3 +3,5 @@
  #                 source "$(brew --prefix bash-git-prompt)/share/gitprompt.sh"
  # fi
 source /Users/coop4/.oh-my-git/prompt.sh
+
+alias ls="ls -l"

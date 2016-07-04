@@ -5,3 +5,4 @@
 source /Users/coop4/.oh-my-git/prompt.sh
 
 alias ls="ls -l"
+alias lsa="ls -la"
